@@ -1,5 +1,4 @@
 ﻿using System;
-using AbstractFactory.AbstractFactorySample1.Absract;
 using AbstractFactory.AbstractFactorySample1.Concrete;
 
 namespace Abstract_Factory
